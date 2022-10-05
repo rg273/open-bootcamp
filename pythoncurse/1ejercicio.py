@@ -24,6 +24,8 @@ print(type(let3))
 let3 = "MI NOMBRE ES RODRIGO Y AHORA SOLO TENGO UN SOLO ARCHIVO"
 print(let3)
 
+#SECCION 3 /Video 3
+
 
 
 
