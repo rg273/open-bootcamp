@@ -10,7 +10,7 @@ let = "Hola Mundo!"
 print(let)
 
 #   ejercicio 3
-let2= "“SCRIPT“ = “PROGRAMA”"
+let= "“SCRIPT“ = “PROGRAMA”"
 print(let2.lower())
 
 #Comienza el segundo video
